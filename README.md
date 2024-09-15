@@ -6,8 +6,7 @@ Este repositório contém laboratórios e materiais de apoio para estudar e se p
 
 ## 📁 Estrutura do Repositório
 
-1. **Localizando Serviços por Categoria**  
-   Um guia prático para encontrar os serviços do Azure organizados por categoria.  
+1. **Localizando Serviços por Categoria**
    [Acesse aqui](./Localizando_Servicos_por_Categoria)
 
 2. **Criando máquinas Virtuais na Azure**
@@ -17,28 +16,28 @@ Este repositório contém laboratórios e materiais de apoio para estudar e se p
    [Acesse aqui](./Configurando-Banco-Dados-Azure)
 
 4. **Construindo Arquiteturas no Azure**
-   Em breve...
+   [Acesse aqui](./Construindo-Arquitetura-Azure)
 
 5. **Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure**
-   Em breve...
+   [Acesse aqui](./Configurando-Recursos-MV)
 
 6. **Dominando o Armazenamento na Azure**
-   Em breve...
+   [Acesse aqui](./Dominando-Armazenamento-Azure)
 
 7. **Entendendo sobre Segurança e Identidade na Azure**
-   Em breve...
+   [Acesse aqui](./Entendendo-Segurança-Identidade-Azure)
 
 8. **Otimizando Custos no Azure**
-   Em breve...
+   [Acesse aqui](./Otimizando-Custos-Azure)
 
 9. **Gerenciando Politicas em Acessos Azure**
-   Em breve...
+   [Acesse aqui](./Gerenciando-Politicas-Acessos-Azure)
 
 10. **Ferramentas de Implantação na Azure**
-   Em breve...
+   [Acesse aqui](./Ferramentas-Implantação-Azure)
 
 11. **Monitoramento Inteligente com o Azure**
-   Em breve...
+   [Acesse aqui](./Monitoramento-Inteligente-Azure)
 
 ---
 
