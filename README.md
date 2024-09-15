@@ -11,10 +11,10 @@ Este repositório contém laboratórios e materiais de apoio para estudar e se p
    [Acesse aqui](./Localizando_Servicos_por_Categoria)
 
 2. **Criando máquinas Virtuais na Azure**
-   Em breve...
+   [Acesse aqui](./Criando-Maquinas-Virtuais)
 
 3. **Configurando uma instância de Banco de Dados na Azure**
-   Em breve...
+   [Acesse aqui](./Configurando-Banco-Dados-Azure)
 
 4. **Construindo Arquiteturas no Azure**
    Em breve...
