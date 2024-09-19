@@ -1,4 +1,4 @@
-# Guia Rápido: Monitoramento Inteligente com o Azure
+# Monitoramento Inteligente com o Azure
 
 Este guia oferece uma visão geral das principais ferramentas e práticas para monitorar e gerenciar recursos no Azure.
 
